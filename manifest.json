@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Simaster Menu Fix",
+  "version": "1.0",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "settings.html"
+  },
+  "description": "Fix Simaster menu display issues.",
+  "content_scripts": [
+    {
+      "matches": ["https://simaster.ugm.ac.id/*"],
+      "js": ["content.js"]
+    }
+  ]
+}

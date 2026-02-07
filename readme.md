@@ -4,7 +4,7 @@
 
 ![Simaster top menu issue](img/image1.png)
 
-Simaster UGM Website has a minor issue that Left and Right navigation menus is stacked. It will make main content covered. So I decided to create a Chrome extension that will fix the issue based on the fix option that I've selected.
+Simaster UGM Website has a minor issue where the left and right navigation menus are stacked. It will make the main content covered. So I decided to create a Chrome extension that will fix the issue based on the fix option that I've selected.
 
 ## Installation
 

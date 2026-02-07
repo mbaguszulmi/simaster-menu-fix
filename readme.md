@@ -23,6 +23,12 @@ Simaster UGM Website has a minor issue that Left and Right navigation menus is s
    ![Prompt](img/image5.png)
 
 
+## Limitations
+
+- This will only work on Chrome
+- Since this is just a local change, the fix will only be applied on Chrome on Desktop/Laptop/Mac devices, where the extension is installed. You can enable Google Chrome sync to make it work on other devices.
+- It doesn't work on Chrome for mobile devices. The website doesn't have the issue on the mobile version anyway.
+
 ## Support me ❤️
 
 [![Saweria](img/SaweriaQR.png)](https://saweria.co/mbaguszulmi)
